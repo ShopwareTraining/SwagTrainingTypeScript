@@ -1,0 +1,17 @@
+{
+  "name": "swag-training/shopware6-typescript",
+  "description": "Sample TypeScript implementation",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SwagTraining\\TypeScript\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "SwagTraining\\TypeScript\\SwagTrainingTypeScript",
+    "label": {
+      "en-GB": "Sample TypeScript implementation"
+    }
+  }
+}
