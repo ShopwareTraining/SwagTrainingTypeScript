@@ -1,4 +1,4 @@
-const { join } = require('path');
+const {join} = require('path');
 
 module.exports = () => {
     return {
@@ -12,6 +12,9 @@ module.exports = () => {
                     }
                 }
             ]
+        },
+        resolve: {
+            extensions: ['.ts', '.tsx']
         }
     };
 }
