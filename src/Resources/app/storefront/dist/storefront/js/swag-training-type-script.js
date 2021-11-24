@@ -1,1 +1,1 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["swag-training-type-script"],{"G/Y0":function(e,n,t){"use strict";t.r(n);var r=new class{constructor(e){this.name=e}greet(){return"Hello "+this.name}}("world");console.log(r.greet())}},[["G/Y0","runtime"]]]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([["swag-training-type-script"],{"+Po8":function(e,n,o){"use strict";o.r(n);var t=new class{constructor(e){this.name=e}greet(){return"Hello "+this.name}}("world");console.log(t.greet())}},[["+Po8","runtime"]]]);
